@@ -1,0 +1,15 @@
+# Chaves SSH - NUNCA devem ser commitadas
+teste1
+teste1.pub
+*.pem
+*.key
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
