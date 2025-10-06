@@ -4,6 +4,12 @@ teste1.pub
 *.pem
 *.key
 
+# Composer
+composer.phar
+composer.bat
+composer.lock
+vendor/
+
 # Arquivos do sistema
 .DS_Store
 Thumbs.db
